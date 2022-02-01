@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akash Mukherjee</h1>
 <h3 align="center">A passionate Full Stack developer from India.</h3>
 
-<img src="https://i.gifer.com/Bm7L.gif" width="400" alt="coding">
+<img src="https://i.gifer.com/Bm7L.gif" width="100" alt="coding">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=projectpustak&label=Profile%20views&color=0e75b6&style=flat" alt="projectpustak" /> </p>
 
