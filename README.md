@@ -1,6 +1,6 @@
 ![MasterHead](https://img.freepik.com/free-vector/flat-hand-drawn-web-developers_23-2148828087.jpg?w=826&t=st=1664878932~exp=1664879532~hmac=4f1e4e123229b35bb6084471fadd5430910d576e40bfdbab46dda51d3b11a5b8)
 <h1 align="center">Hello, World!</h1>
-<h1 align="center">I am Akash Mukherjee</h1>
+<h1 align="center">👋I'm Akash Mukherjee</h1>
 <h3 align="center">A passionate Full Stack developer from India. And Currently learning React JS</h3>
 <img align ="right" alt="Coding" width="200" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif"> 
 
