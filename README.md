@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **Android, MERN**
 
-- 📫 How to reach me [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=round-square&logo=gmail&logoColor=white)](akash.bamun2001@gmail.com)
+- 📫 How to reach me  [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=round-square&logo=gmail&logoColor=white)](akash.bamun2001@gmail.com)
 
 - ⚡ Fun fact **🔰Declare Variable not war🔰**
 
