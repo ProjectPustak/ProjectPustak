@@ -38,6 +38,6 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=round-square&logo=twitter&logoColor=white)](https://twitter.com/dev_akash001)
 [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=round-square&logo=gmail&logoColor=white)](akash.bamun2001@gmail.com)
 [![Hashnode](https://img.shields.io/badge/-Hashnode-2962FF?style=round-square&logo=hashnode&logoColor=white)](https://hashnode.com/@helloakash)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=round-square&logo=hashnode&logoColor=white)](https://www.linkedin.com/in/devsky/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=round-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devsky/)
 
 ![Thank You github](https://user-images.githubusercontent.com/41143496/111601768-b13aec00-87f8-11eb-8d8c-51db093db5da.gif)
