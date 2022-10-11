@@ -22,7 +22,7 @@
 <a href="https://twitter.com/dev_akash001"><img src="https://github.com/ashwinexe/ColoredBadges/raw/master/svg/social/twitter.svg"></a>
 <a href="https://www.linkedin.com/in/devsky/"><img src="https://github.com/ashwinexe/ColoredBadges/raw/master/svg/social/linkedin.svg"></a>
 
-- 💬 Ask me about **Android, MERN**
+- 💬 Ask me about **JavaScript, MERN**
 
 **🧰My Gear...**
 <p>
