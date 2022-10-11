@@ -17,12 +17,7 @@
 - 📝 I regularly write articles on 👇
 - [![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=round-square&logo=blogger&logoColor=white)](https://devgoliath.blogspot.com/)
 
-
 - 💬 Ask me about **Android, MERN**
-
-- 📫 How to reach me 👇
-- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=round-square&logo=gmail&logoColor=white)](akash.bamun2001@gmail.com)
-
 - ⚡ Fun fact **🔰Declare Variable not war🔰**
 
 
