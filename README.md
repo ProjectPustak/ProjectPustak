@@ -12,10 +12,11 @@
 
 - 🌱 I’m currently learning **React JS & Node JS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ProjectPustak/ProjectPustak](https://github.com/ProjectPustak/ProjectPustak)
+---
 
 - 📝 I regularly write articles on 👇
 - [![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=round-square&logo=blogger&logoColor=white)](https://devgoliath.blogspot.com/)
+---
 
 - 📫 How to reach me:
 <a href="mailto:akash.bamun2001@gmail.com"><img src="https://github.com/ashwinexe/ColoredBadges/raw/master/svg/social/email_me.svg"></a>
