@@ -19,6 +19,8 @@
 
 -📫 How to reach me: 👇
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=round-square&logo=twitter&logoColor=white)](https://twitter.com/dev_akash001)
+[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=round-square&logo=gmail&logoColor=white)](https://akash.bamun2001@gmail.com)
+[![Hashnode](https://img.shields.io/badge/-Hashnode-2962FF?style=round-square&logo=hashnode&logoColor=white)](https://hashnode.com/@helloakash)
 
 - 💬 Ask me about **Android, MERN**
 - ⚡ Fun fact **🔰Declare Variable not war🔰**
