@@ -45,8 +45,7 @@
 </p>
 
 
-- ⚡ Fun fact **🔰Declare Variable not war🔰**
-
+### ⚡ When I don't code : **Games, Listning Musics, Movie and Phothography**
 
 <p align="left">
 </p>
