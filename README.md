@@ -69,7 +69,7 @@
 ## **Let's Connect**
 
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=round-square&logo=twitter&logoColor=white)](https://twitter.com/dev_akash001)
-[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=round-square&logo=gmail&logoColor=white)](https://akash.bamun2001@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=round-square&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100057375368185)
 [![Hashnode](https://img.shields.io/badge/-Hashnode-2962FF?style=round-square&logo=hashnode&logoColor=white)](https://hashnode.com/@helloakash)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=round-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devsky/)
 
