@@ -18,7 +18,7 @@
 - [![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=round-square&logo=blogger&logoColor=white)](https://devgoliath.blogspot.com/)
 
 - 📫 How to reach me:
-<a href="akash.bamun2001@gmail.com"><img src="https://github.com/ashwinexe/ColoredBadges/raw/master/svg/social/email_me.svg"></a>
+<a href="mailto:akash.bamun2001@gmail.com"><img src="https://github.com/ashwinexe/ColoredBadges/raw/master/svg/social/email_me.svg"></a>
 <a href="https://twitter.com/dev_akash001"><img src="https://github.com/ashwinexe/ColoredBadges/raw/master/svg/social/twitter.svg"></a>
 <a href="https://www.linkedin.com/in/devsky/"><img src="https://github.com/ashwinexe/ColoredBadges/raw/master/svg/social/linkedin.svg"></a>
 
