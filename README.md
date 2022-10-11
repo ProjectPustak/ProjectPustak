@@ -23,6 +23,28 @@
 <a href="https://www.linkedin.com/in/devsky/"><img src="https://github.com/ashwinexe/ColoredBadges/raw/master/svg/social/linkedin.svg"></a>
 
 - 💬 Ask me about **Android, MERN**
+
+**🧰My Gear...**
+<p>
+<a href="https://code.visualstudio.com/">
+<img src="https://raw.githubusercontent.com/ashwinexe/ColoredBadges/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
+</a>
+<a href="github.com/ashwinexe">
+<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/dev/services/github.svg" alt="github" style="vertical-align:top; margin:4px">
+</a>
+<a href="https://www.microsoft.com/en-us/edge">
+<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/dev/misc/edge.svg" alt="edge" style="vertical-align:top; margin:4px">
+</a>
+<a href="https://www.microsoft.com/en-us/edge">
+<img src="https://github.com/ashwinexe/ColoredBadges/raw/master/svg/dev/tools/powershell.svg" alt="edge" style="vertical-align:top; margin:4px">
+</a>
+
+<a href="https://git-scm.com">
+        <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/dev/tools/git.svg" alt="git" style="vertical-align:top; margin:4px">
+</a>
+</p>
+
+
 - ⚡ Fun fact **🔰Declare Variable not war🔰**
 
 
