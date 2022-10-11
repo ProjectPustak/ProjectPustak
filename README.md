@@ -14,7 +14,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ProjectPustak/ProjectPustak](https://github.com/ProjectPustak/ProjectPustak)
 
-- 📝 I regularly write articles on [http://devgoliath.blogspot.com/](http://devgoliath.blogspot.com/)
+- 📝 I regularly write articles on 👇
+- [![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](devgoliath.blogspot.com)
+
 
 - 💬 Ask me about **Android, MERN**
 
