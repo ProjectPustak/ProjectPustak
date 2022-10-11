@@ -17,10 +17,10 @@
 - 📝 I regularly write articles on 👇
 - [![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=round-square&logo=blogger&logoColor=white)](https://devgoliath.blogspot.com/)
 
--📫 How to reach me: 👇
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=round-square&logo=twitter&logoColor=white)](https://twitter.com/dev_akash001)
-[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=round-square&logo=gmail&logoColor=white)](https://akash.bamun2001@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=round-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devsky/)
+- 📫 How to reach me:
+<a href="akash.bamun2001@gmail.com"><img src="https://github.com/ashwinexe/ColoredBadges/raw/master/svg/social/email_me.svg"></a>
+<a href="https://twitter.com/dev_akash001"><img src="https://github.com/ashwinexe/ColoredBadges/raw/master/svg/social/twitter.svg"></a>
+<a href="https://www.linkedin.com/in/devsky/"><img src="https://github.com/ashwinexe/ColoredBadges/raw/master/svg/social/linkedin.svg"></a>
 
 - 💬 Ask me about **Android, MERN**
 - ⚡ Fun fact **🔰Declare Variable not war🔰**
