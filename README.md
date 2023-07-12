@@ -1,16 +1,21 @@
-![MasterHead](https://raw.githubusercontent.com/ProjectPustak/My-GitHub-Banner/main/1.png)
+# 👋 Welcome to My GitHub Profile 
+<img src="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png" width="100%" height="8px"/>
+
+![banner](https://raw.githubusercontent.com/ProjectPustak/My-GitHub-Banner/main/1.png)
+
+<img src="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png" width="100%" height="8px"/>
 
 <h1 align="center">Hello, World!</h1>
 <h1 align="center">👋I'm Akash Mukherjee</h1>
-<h3 align="center">A passionate Full Stack developer from India. And Currently learning React JS</h3>
+<h3 align="center">A passionate Web  developer from India. And Currently learning Java</h3>
 <img align ="right" alt="Coding" width="200" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif"> 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=projectpustak&label=Profile%20views&color=0e75b6&style=flat" alt="projectpustak" /> </p>
 
-- 🔭 I’m currently working on **REST API**
+- 🔭 I’m currently working on **JAVA**
 
-- 🌱 I’m currently learning **React JS & Node JS**
+- 🌱 I’m currently learning **JAVA**
 
 ---
 
@@ -69,4 +74,12 @@
 [![Hashnode](https://img.shields.io/badge/-Hashnode-2962FF?style=round-square&logo=hashnode&logoColor=white)](https://hashnode.com/@helloakash)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=round-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devsky/)
 
-![Thank You github](https://user-images.githubusercontent.com/41143496/111601768-b13aec00-87f8-11eb-8d8c-51db093db5da.gif)
+<p align="center"><br><br>
+  <samp>
+    <i>Thanks for visiting my profile.<br>If you found it interesting, please leave a ⭐️</i> 
+  </samp>
+</p>
+
+<p align="center" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&width=100%&section=footer&text=Have%20a%20Nice%20Day"/>
+</p>
