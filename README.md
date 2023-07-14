@@ -76,10 +76,10 @@
 <h3 align="left">Connect with me :</h3>
 
 <p align="center">
-  <a href="https://twitter.com/BittEkam"><img src="https://img.icons8.com/cute-clipart/64/000000/twitter.png"/></a> 
-  <a href="https://www.linkedin.com/in/ekam-bitt-584645203/"><img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"/></a>
-  <a href="https://www.instagram.com/ekam.bitt28/"><img src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png"/></a>
-  <a href="mailto:ekambitt@gmail.com"><img src="https://img.icons8.com/cute-clipart/64/000000/gmail.png"/></a>
+  <a href="https://twitter.com/dev_akash001"><img src="https://img.icons8.com/cute-clipart/64/000000/twitter.png"/></a> 
+  <a href="https://www.linkedin.com/in/devsky/"><img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"/></a>
+  <a href="https://www.instagram.com/dev_akash001/"><img src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png"/></a>
+  <a href="mailto:akash.bamun2001@gmail.com"><img src="https://img.icons8.com/cute-clipart/64/000000/gmail.png"/></a>
 </p>
  
 <img src="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png" width="100%" height="8px"/>
