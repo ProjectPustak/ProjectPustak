@@ -64,8 +64,14 @@
 <p align="left">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=projectpustak&show_icons=true&locale=en" alt="projectpustak" /></p>
+<h3 align="left">Tech Stack :</h3>
+
+<img align="left" alt="GIF" src="https://user-images.githubusercontent.com/74407205/232208553-2dd4181e-2d88-46a4-ac0b-15bda6d52f34.png" height="200px"/>
+
+<a href="" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" height="60" width="60" /></a>
+<img src="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png" width="100%" height="8px"/>
+
+<h3 align="left">Connect with me :</h3>
 
 ## **Let's Connect**
 
