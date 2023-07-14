@@ -64,6 +64,8 @@
 <p align="left">
 </p>
 
+
+<img src="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png" width="100%" height="8px"/>
 <h3 align="left">Tech Stack :</h3>
 
 <img align="left" alt="GIF" src="https://user-images.githubusercontent.com/74407205/232208553-2dd4181e-2d88-46a4-ac0b-15bda6d52f34.png" height="200px"/>
@@ -73,12 +75,14 @@
 
 <h3 align="left">Connect with me :</h3>
 
-## **Let's Connect**
-
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=round-square&logo=twitter&logoColor=white)](https://twitter.com/dev_akash001)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=round-square&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100057375368185)
-[![Hashnode](https://img.shields.io/badge/-Hashnode-2962FF?style=round-square&logo=hashnode&logoColor=white)](https://hashnode.com/@helloakash)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=round-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devsky/)
+<p align="center">
+  <a href="https://twitter.com/BittEkam"><img src="https://img.icons8.com/cute-clipart/64/000000/twitter.png"/></a> 
+  <a href="https://www.linkedin.com/in/ekam-bitt-584645203/"><img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"/></a>
+  <a href="https://www.instagram.com/ekam.bitt28/"><img src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png"/></a>
+  <a href="mailto:ekambitt@gmail.com"><img src="https://img.icons8.com/cute-clipart/64/000000/gmail.png"/></a>
+</p>
+ 
+<img src="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png" width="100%" height="8px"/>
 
 <p align="center"><br><br>
   <samp>
